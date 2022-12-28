@@ -137,3 +137,4 @@ images: ['/static/images/welcome.webp']
 ## Licence
 
 [MIT](https://github.com/timlrx/tailwind-nextjs-starter-blog/blob/master/LICENSE)
+# blog
