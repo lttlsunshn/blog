@@ -1,11 +1,11 @@
 ---
-name: 이름
+name: JoyEL
 avatar: /static/images/프로필사진.png
 occupation: 타이틀
-company: 컴패니
-email: 이메일주소
+company: ...
+email: lttlsunshn@gmail.com
 linkedin: 링크드인주소
-github: 깃헙주소
+github: https://github.com/lttlsunshn
 ---
 
-자기 소개하기
+안녕하세요. 반갑습니다!!!
