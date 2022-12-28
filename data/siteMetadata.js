@@ -1,7 +1,7 @@
 const siteMetadata = {
   title: 'JoyEL Blog',
   author: 'JoyEL',
-  headerTitle: 'WELCOME2',
+  headerTitle: 'WELCOME!',
   description: '',
   language: 'ko-KR',
   siteUrl: '',
